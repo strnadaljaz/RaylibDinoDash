@@ -1,11 +1,11 @@
 # DinoMeteorJump
 
-A simple yet fun game where your dinosaur jumps over meteors. The game is written in C++ and uses the [raylib](https://www.raylib.com/) library for graphics rendering and input processing.
+A simple yet fun game where your dinosaur jumps to avoid meteors approaching from the right. The game is written in C++ and uses the [raylib](https://www.raylib.com/) library for graphics rendering and input processing.
 
 ## Features
 
-- Control a dinosaur running through the desert.
-- Avoid falling meteors by jumping over them.
+- Control a dinosaur to jump over incoming meteors.
+- Avoid meteors coming from the right to prevent collision.
 - Aim to survive as long as possible and achieve a high score.
 
 ## Table of Contents
@@ -55,7 +55,7 @@ To run the game, you need the following:
 
 2. **Control your dinosaur** to jump over meteors using the designated keys (typically space or up arrow).
 
-3. **Survive and score points** by avoiding collisions with meteors.
+3. **Survive and score points** by avoiding collisions with meteors coming from the right.
 
 ## Contributing
 
