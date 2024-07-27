@@ -69,13 +69,15 @@ We welcome your contributions! Please follow these steps to contribute:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+### Attribution
+
+When using this software, please include the following attribution:
+
+"This software was developed by Aljaž Strnad."
+
 ## Acknowledgments
 
 Special thanks to raylib for enabling easy use of graphical functionalities in C++.
 
-## Additional Tips
-
-- **Create a `LICENSE` file** with the appropriate text for the MIT license if you don't have one.
-- **Ensure code quality:** Make sure the code in the repository is clean and well-documented to facilitate contributions from others.
 
 Enjoy the game! If you need any further assistance, just let me know!
