@@ -11,7 +11,6 @@ A simple yet fun game where your dinosaur jumps to avoid meteors approaching fro
 ## Table of Contents
 
 - [Features](#features)
-- [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -19,39 +18,19 @@ A simple yet fun game where your dinosaur jumps to avoid meteors approaching fro
 - [Acknowledgments](#acknowledgments)
 - [Additional Tips](#additional-tips)
 
-## Requirements
-
-To run the game, you need the following:
-
-- C++ compiler (recommended: GCC or Clang)
-- Raylib library (version 3.5 or newer)
-
 ## Installation
 
-1. **Clone the repository:**
+1. **Download the game:**
 
-    ```bash
-    git clone https://github.com/yourusername/DinoMeteorJump.git
-    cd DinoMeteorJump
-    ```
+    Download the latest version of the game from the [Releases](https://github.com/yourusername/DinoMeteorJump/releases) page.
 
-2. **Compile the game:**
+2. **Run the game:**
 
-    Make sure you have installed the raylib library on your system. Then run:
-
-    ```bash
-    make
-    ```
-
-3. **Run the game:**
-
-    ```bash
-    ./DinoMeteorJump
-    ```
+    Simply double-click the `DinoMeteorJump.exe` file to start playing. No installation or additional software is required.
 
 ## Usage
 
-1. **Start the game** by executing the compiled binary.
+1. **Start the game** by running the `DinoMeteorJump.exe` file.
 
 2. **Control your dinosaur** to jump over meteors using the designated keys (typically space or up arrow).
 
@@ -78,6 +57,5 @@ When using this software, please include the following attribution:
 ## Acknowledgments
 
 Special thanks to raylib for enabling easy use of graphical functionalities in C++.
-
 
 Enjoy the game! If you need any further assistance, just let me know!
