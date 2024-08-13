@@ -1,4 +1,4 @@
-# DinoMeteorJump
+# RaylibDinoDash
 
 A simple yet fun game where your dinosaur jumps to avoid meteors approaching from the right. The game is written in C++ and uses the [raylib](https://www.raylib.com/) library for graphics rendering and input processing.
 
