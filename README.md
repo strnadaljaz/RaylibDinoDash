@@ -22,7 +22,7 @@ A simple yet fun game where your dinosaur jumps to avoid meteors approaching fro
 
 1. **Download the game:**
 
-    Download the latest version of the game from the [Releases](https://github.com/yourusername/DinoMeteorJump/releases) page.
+    Clone the repository to your computer.
 
 2. **Run the game:**
 
