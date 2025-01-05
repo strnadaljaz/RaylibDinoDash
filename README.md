@@ -26,13 +26,13 @@ A simple yet fun game where your dinosaur jumps to avoid meteors approaching fro
 
 2. **Run the game:**
 
-    Simply double-click the `DinoMeteorJump.exe` file to start playing. No installation or additional software is required.
+    Simply double-click the `DinoGame.exe` file to start playing. No installation or additional software is required.
 
 ## Usage
 
-1. **Start the game** by running the `DinoMeteorJump.exe` file.
+1. **Start the game** by running the `DinoGame.exe` file.
 
-2. **Control your dinosaur** to jump over meteors using the designated keys (typically space or up arrow).
+2. **Control your dinosaur** to jump over meteors using the designated keys (space, up arrow or w).
 
 3. **Survive and score points** by avoiding collisions with meteors coming from the right.
 
